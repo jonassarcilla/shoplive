@@ -1,9 +1,20 @@
 module.exports = {
   mode: 'jit',
-  purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
+  purge: ['./src/pages/**/*.{js,ts,jsx,tsx}', './src/components/**/*.{js,ts,jsx,tsx}'],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      colors: {
+        'primary-1': '#254A72',
+        'primary-2': '#1565D8',
+        'primary-3': '#F7F8F9',
+        'primary-text': '#183B56',
+        'secondary': '#36B37E',
+        'secondary-text': '#5A7184',
+        'accent': '#FAAD13',
+        'accent-2': '#E95432',
+        'muted': '#959EAD',
+      },
       spacing: {
         '1/2': '50%',
         '1/3': '33.333333%',
