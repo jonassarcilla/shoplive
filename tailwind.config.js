@@ -10,10 +10,14 @@ module.exports = {
         'primary-3': '#F7F8F9',
         'primary-text': '#183B56',
         'secondary': '#36B37E',
+        'secondary-2': '#FAFAFA',
         'secondary-text': '#5A7184',
         'accent': '#FAAD13',
         'accent-2': '#E95432',
         'muted': '#959EAD',
+        'accent-3': '#F7F8F9',
+        'highlight': '#EAF7F2',
+        'special': '#E95432'
       },
       spacing: {
         '1/2': '50%',
