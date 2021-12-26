@@ -470,9 +470,9 @@ export default function Home() {
           </section>
 
           {/* Stats */}
-          <section className='relative container flex flex-row mx-auto overflow-x-auto bg-white'>
-            <div className='flex-auto py-2'>
-              <div className='w-auto flex flex-row gap-4 items-start px-4 py-3'>
+          <section className='relative container mx-auto flex flex-col overflow-x-auto bg-white'>
+            <div className='grid justify-items-center'>
+              <div className='flex flex-row px-4 py-3 gap-4'>
                 <div className='flex flex-col w-72'>
                   <h3 className='mb-5 text-xl text-primary-text font-semibold'>Most Sold Laptops</h3>
                   
@@ -572,9 +572,9 @@ export default function Home() {
                     </span>
                   </div>
                 </div>
-                
+
                 <div className='flex flex-col w-72'>
-                  <h3 className='mb-5 text-xl text-primary-text font-semibold'>Most Sold Cameras</h3>
+                  <h3 className='mb-5 text-xl text-primary-text font-semibold'>Most Sold Laptops</h3>
                   
                   <div className='flex flex-col gap-4'>
                     {/* item wrapper */}
@@ -672,9 +672,8 @@ export default function Home() {
                     </span>
                   </div>
                 </div>
-
                 <div className='flex flex-col w-72'>
-                  <h3 className='mb-5 text-xl text-primary-text font-semibold'>Most Sold Headphones</h3>
+                  <h3 className='mb-5 text-xl text-primary-text font-semibold'>Most Sold Laptops</h3>
                   
                   <div className='flex flex-col gap-4'>
                     {/* item wrapper */}
