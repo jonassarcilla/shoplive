@@ -908,7 +908,7 @@ export default function Home() {
             <h2 className="font-bold text-2xl flex-auto items-center flex flex-col justify-items-center content-center">
               <Link href="/">
                 <a className="flex flex-row flex-wrap gap-x-2 items-center text-accent">
-                  <svg id="Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77.143" height="24" viewBox="0 0 77.143 24">
+                  <svg id="Logo" xmlns="http://www.w3.org/2000/svg" width="77.143" height="24" viewBox="0 0 77.143 24">
                     <defs>
                       <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
                         <stop offset="0" stopColor="#254a72"/>
