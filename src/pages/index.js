@@ -221,7 +221,7 @@ export default function Home() {
                 <div className='flex flex-col flex-wrap px-5 py-5 cursor-pointer rounded-xl bg-special'>
                   <h4 className='my-4 text-center text-xl text-white'>Apple Watch 4 2020</h4>
                   {/* count down timer */}
-                  <div class="flex flex-row justify-center">
+                  <div className="flex flex-row justify-center">
                     <div className='relative flex flex-col justify-center px-2 py-1 rounded-md overflow-hidden'>
                       <span className='text-sm text-white'>10</span>
                       <span className='absolute top-0 left-0 w-32 h-32 bg-white opacity-10'>&nbsp;</span>
@@ -317,8 +317,8 @@ export default function Home() {
             </div>
 
             <div className='absolute top-0 left-0 w-full'>
-              <div class="flex items-stretch bg-secondary opacity-10">
-                <div class="py-40">&nbsp;</div>
+              <div className="flex items-stretch bg-secondary opacity-10">
+                <div className="py-40">&nbsp;</div>
               </div>
             </div>
 
@@ -327,7 +327,7 @@ export default function Home() {
           
           {/* Categories */}
           <section className='container mx-auto flex flex-row pt-8 pb-14 bg-white'>
-            <div class="grid grid-cols-2 gap-5 mx-5">
+            <div className="grid grid-cols-2 gap-5 mx-5">
               <div className='group cursor-pointer'>
                 <div className='grid justify-items-center px-5 py-5 rounded-lg border-2 group-hover:border-none hover:drop-shadow-2xl group-hover:bg-white'>
                   <svg id="iconspace_Tshirt_B" data-name="iconspace_Tshirt B" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
