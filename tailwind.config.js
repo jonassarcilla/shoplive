@@ -82,6 +82,9 @@ module.exports = {
         'mq-samsunggalaxys5-l': { raw: "only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3)"}, //Samsung Galaxy S5 Landscape
         'mq-samsunggalaxys5-p': { raw: "only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3)"}, //Samsung Galaxy S5 Portrait
       },
+      height: {
+        '20vh': '20vh',
+      }
     },
   },
   variants: {

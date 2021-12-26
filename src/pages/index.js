@@ -783,8 +783,8 @@ export default function Home() {
             </div>
 
             <div className='flex flex-col gap-4'>
-              <article className='flex flex-col px-4 py-4 bg-accent-3 rounded-lg'>
-                <div className='relative flex flex-row items-center justify-items-center content-center justify-center w-60 h-32 rounded-lg bg-special'>
+              <article className='relative flex flex-col px-4 py-4 bg-accent-3 rounded-lg'>
+                <div className='relative flex flex-row items-center justify-items-center content-center justify-center h-20vh rounded-lg bg-special'>
                   <div className='absolute top-4 right-4 w-9 h-9 rounded-full bg-white z-0'>
                       <div className='w-9 h-9 bg-accent-3 rounded-full flex items-center justify-items-center content-center justify-center'>
                         <svg xmlns="http://www.w3.org/2000/svg" width="10.4" height="13.365" viewBox="0 0 10.4 13.365">
@@ -808,7 +808,7 @@ export default function Home() {
               </article>
 
               <article className='flex flex-col px-4 py-4 bg-accent-3 rounded-lg'>
-                <div className='relative flex flex-row items-center justify-items-center content-center justify-center w-60 h-32 rounded-lg bg-special'>
+                <div className='relative flex flex-row items-center justify-items-center content-center justify-center h-32 h-20vh rounded-lg bg-special'>
                   <div className='absolute top-4 right-4 w-9 h-9 rounded-full bg-white z-0'>
                       <div className='w-9 h-9 bg-accent-3 rounded-full flex items-center justify-items-center content-center justify-center'>
                         <svg xmlns="http://www.w3.org/2000/svg" width="10.4" height="13.365" viewBox="0 0 10.4 13.365">
@@ -832,7 +832,7 @@ export default function Home() {
               </article>
 
               <article className='flex flex-col px-4 py-4 bg-accent-3 rounded-lg'>
-                <div className='relative flex flex-row items-center justify-items-center content-center justify-center w-60 h-32 rounded-lg bg-special'>
+                <div className='relative flex flex-row items-center justify-items-center content-center justify-center h-32 h-20vh rounded-lg bg-special'>
                   <div className='absolute top-4 right-4 w-9 h-9 rounded-full bg-white z-0'>
                       <div className='w-9 h-9 bg-accent-3 rounded-full flex items-center justify-items-center content-center justify-center'>
                         <svg xmlns="http://www.w3.org/2000/svg" width="10.4" height="13.365" viewBox="0 0 10.4 13.365">
