@@ -326,7 +326,7 @@ export default function Home() {
           </section>
           
           {/* Categories */}
-          <section className='container mx-auto flex flex-row pt-8 pb-14 bg-white'>
+          <section className='container mx-auto flex flex-col pt-8 pb-14 bg-white'>
             <div className="grid grid-cols-2 gap-5 mx-5">
               <div className='group cursor-pointer'>
                 <div className='grid justify-items-center px-5 py-5 rounded-lg border-2 group-hover:border-none hover:drop-shadow-2xl group-hover:bg-white'>
