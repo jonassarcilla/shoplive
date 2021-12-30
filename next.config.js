@@ -1,4 +1,5 @@
 module.exports = {
+  compress: true,
   reactStrictMode: true,
   env: {
     SHOPIFY_STORE_DOMAIN: process.env.SHOPIFY_STORE_DOMAIN,
