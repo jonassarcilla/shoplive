@@ -23,23 +23,23 @@ const Promotions = () => {
                             <svg xmlns="http://www.w3.org/2000/svg"  width="30.627" height="35.045" viewBox="0 0 30.627 35.045">
                                 <defs>
                                     <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
-                                    <stop offset="0" stop-color="#63be6b"/>
-                                    <stop offset="0.506" stop-color="#5bbc6a"/>
-                                    <stop offset="1" stop-color="#4ab96a"/>
+                                    <stop offset="0" stopColor="#63be6b"/>
+                                    <stop offset="0.506" stopColor="#5bbc6a"/>
+                                    <stop offset="1" stopColor="#4ab96a"/>
                                     </linearGradient>
                                     <linearGradient id="linear-gradient-2" y1="0.5" x2="0.999" y2="0.5" gradientUnits="objectBoundingBox">
-                                    <stop offset="0" stop-color="#3ec6f2"/>
-                                    <stop offset="1" stop-color="#45afe3"/>
+                                    <stop offset="0" stopColor="#3ec6f2"/>
+                                    <stop offset="1" stopColor="#45afe3"/>
                                     </linearGradient>
                                     <linearGradient id="linear-gradient-3" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
-                                    <stop offset="0" stop-color="#faa51a"/>
-                                    <stop offset="0.387" stop-color="#fab716"/>
-                                    <stop offset="0.741" stop-color="#fac412"/>
-                                    <stop offset="1" stop-color="#fac80f"/>
+                                    <stop offset="0" stopColor="#faa51a"/>
+                                    <stop offset="0.387" stopColor="#fab716"/>
+                                    <stop offset="0.741" stopColor="#fac412"/>
+                                    <stop offset="1" stopColor="#fac80f"/>
                                     </linearGradient>
                                     <linearGradient id="linear-gradient-4" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
-                                    <stop offset="0" stop-color="#ec3b50"/>
-                                    <stop offset="1" stop-color="#e7515b"/>
+                                    <stop offset="0" stopColor="#ec3b50"/>
+                                    <stop offset="1" stopColor="#e7515b"/>
                                     </linearGradient>
                                 </defs>
                                 <g id="google-play-5" transform="translate(0 0.001)">

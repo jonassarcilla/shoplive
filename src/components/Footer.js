@@ -31,25 +31,25 @@ const Footer = () => {
               <div className='grid items-center justify-items-center w-10 h-10 rounded-full bg-highlight'>
                 <svg xmlns="http://www.w3.org/2000/svg" width="23.616" height="24.165" viewBox="0 0 23.616 24.165">
                   <defs>
-                    <clipPath id="clip-path">
+                    <clipPath id="clipPath">
                       <path id="Path_13" data-name="Path 13" d="M-345.458,295.186h-11.259v4.668h6.481c-.6,2.966-3.13,4.668-6.481,4.668a7.126,7.126,0,0,1-7.14-7.14,7.126,7.126,0,0,1,7.14-7.14,6.985,6.985,0,0,1,4.449,1.593l3.515-3.515a12.028,12.028,0,0,0-7.964-3.021A12.048,12.048,0,0,0-368.8,297.383a12.048,12.048,0,0,0,12.083,12.083c6.041,0,11.533-4.394,11.533-12.083A10.024,10.024,0,0,0-345.458,295.186Z" transform="translate(368.8 -285.3)" fill="#254a72"/>
                     </clipPath>
                   </defs>
                   <g id="google-g-2015" transform="translate(433.8 -474.3)">
                     <g id="Group_7" data-name="Group 7" transform="translate(-433.8 474.3)">
-                      <g id="Group_1" data-name="Group 1" transform="translate(0 0)" clip-path="url(#clip-path)">
-                        <path id="Path_12" data-name="Path 12" d="M-370.8,308.58V294.3l9.337,7.14Z" transform="translate(369.702 -289.357)" fill="#254a72" stroke="#254a72" stroke-width="1"/>
+                      <g id="Group_1" data-name="Group 1" transform="translate(0 0)" clipPath="url(#clipPath)">
+                        <path id="Path_12" data-name="Path 12" d="M-370.8,308.58V294.3l9.337,7.14Z" transform="translate(369.702 -289.357)" fill="#254a72" stroke="#254a72" strokeWidth="1"/>
                       </g>
-                      <g id="Group_2" data-name="Group 2" transform="translate(0 0)" clip-path="url(#clip-path)">
+                      <g id="Group_2" data-name="Group 2" transform="translate(0 0)" clipPath="url(#clipPath)">
                         <path id="Path_14" data-name="Path 14" d="M-370.8,289.341l9.337,7.14,3.844-3.35,13.181-2.142V283.3H-370.8Z" transform="translate(369.702 -284.398)" fill="#254a72"/>
                       </g>
                       <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
-                        <g id="Group_3" data-name="Group 3" clip-path="url(#clip-path)">
+                        <g id="Group_3" data-name="Group 3" clipPath="url(#clipPath)">
                           <path id="Path_16" data-name="Path 16" d="M-370.8,303.621l16.476-12.632,4.339.549,5.547-8.238v26.362H-370.8Z" transform="translate(369.702 -284.398)" fill="#254a72"/>
                         </g>
                       </g>
                       <g id="Group_6" data-name="Group 6" transform="translate(0 0)">
-                        <g id="Group_5" data-name="Group 5" clip-path="url(#clip-path)">
+                        <g id="Group_5" data-name="Group 5" clipPath="url(#clipPath)">
                           <path id="Path_18" data-name="Path 18" d="M-338.578,314.621-355.6,301.44l-2.2-1.648,19.222-5.492Z" transform="translate(363.841 -289.357)" fill="#254a72"/>
                         </g>
                       </g>
