@@ -4,7 +4,8 @@ import Link from 'next/link'
 
 const ProductRecommendation = () => {
     return (
-        <section className='container mx-auto flex flex-col flex-wrap bg-white px-5 py-16'>
+        <section className='bg-white'>
+          <div className='container mx-auto flex flex-col flex-wrap bg-white px-5 py-16'>
             <div className='flex flex-col text-center'>
               <h2 className='text-3xl font-semibold text-primary-text'>
                 Product Recommendation
@@ -141,7 +142,8 @@ const ProductRecommendation = () => {
                 </div>
               </div>
             </div>
-          </section>
+          </div>
+        </section>
     )
 }
 

@@ -2,8 +2,8 @@ import React from 'react'
 
 const HotItem = () => {
     return (
-        <section className='relative container mx-auto flex flex-col flex-wrap px-3 py-9 bg-secondary-2'>
-            <div className='z-10'>
+        <section className='relative bg-secondary-2'>
+            <div className='relative container mx-auto flex flex-col flex-wrap px-3 py-9 z-10'>
               <h3 className='text-center text-3xl'>🔥 Hot Item</h3>
               <div className='flex flex-col my-9 bg-white rounded-lg'>
                 {/* item wrapper */}
@@ -68,7 +68,7 @@ const HotItem = () => {
                 <div className="py-40">&nbsp;</div>
               </div>
             </div>
-          </section>
+        </section>
     )
 }
 

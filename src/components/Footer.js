@@ -4,7 +4,8 @@ import Link from 'next/link'
 
 const Footer = () => {
     return (
-        <footer className='bg-white container mx-auto flex flex-col flex-wrap gap-x-2 items-center justify-items-center content-center px-5 py-5'>
+      <footer className='bg-white'>
+        <div className='container mx-auto flex flex-col flex-wrap gap-x-2 items-center justify-items-center content-center px-5 py-5'>
           <div className='flex flex-col flex-wrap gap-x-2 items-center justify-items-center content-center pb-14 order-last'>
             <h2 className="font-bold text-2xl flex-auto items-center flex flex-col justify-items-center content-center">
               <Link href="/">
@@ -72,7 +73,8 @@ const Footer = () => {
               </ul>
             </div>
           </div>
-        </footer>
+        </div>
+      </footer>
     )
 }
 
