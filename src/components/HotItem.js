@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 
 const HotItem = () => {
     return (
@@ -10,7 +11,14 @@ const HotItem = () => {
                 <div className='group cursor-pointer pt-10'>
                   <div className='flex flex-col mx-2 pb-8 border-b-2'>
                     <div className='grid justify-items-center'>
-                      <div className='w-32 h-32 rounded-lg bg-red-500'></div>
+                      <div className='w-32 h-32 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/asus-zenbook.png"
+                          width={128}
+                          height={128}
+                          alt='Asus Zenbook'
+                        />
+                      </div>
                     </div>
                     <h4 className='pt-6 text-center text-lg text-primary-text'>Asus Zenbook Pro 13&quot;</h4>
                     <p className='pt-3 text-center text-sm text-muted'>The specification here</p>
@@ -21,9 +29,16 @@ const HotItem = () => {
                 <div className='group cursor-pointer pt-10'>
                   <div className='flex flex-col mx-2 pb-8 border-b-2'>
                     <div className='grid justify-items-center'>
-                      <div className='w-32 h-32 rounded-lg bg-red-500'></div>
+                      <div className='w-32 h-32 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/blender.png"
+                          width={128}
+                          height={128}
+                          alt='Modena Juice Blender'
+                        />
+                      </div>
                     </div>
-                    <h4 className='pt-6 text-center text-lg text-primary-text'>Asus Zenbook Pro 13&quot;</h4>
+                    <h4 className='pt-6 text-center text-lg text-primary-text'>Modena Juice Blender</h4>
                     <p className='pt-3 text-center text-sm text-muted'>The specification here</p>
                     <p className='pt-5 text-center text-xl text-secondary font-semibold'>$1,500.00</p>
                   </div>
@@ -32,9 +47,16 @@ const HotItem = () => {
                 <div className='group cursor-pointer pt-10'>
                   <div className='flex flex-col mx-2 pb-8 border-b-2'>
                     <div className='grid justify-items-center'>
-                      <div className='w-32 h-32 rounded-lg bg-red-500'></div>
+                      <div className='w-32 h-32 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/leica-camera.png"
+                          width={128}
+                          height={128}
+                          alt='Leica M3 1972'
+                        />
+                      </div>
                     </div>
-                    <h4 className='pt-6 text-center text-lg text-primary-text'>Asus Zenbook Pro 13&quot;</h4>
+                    <h4 className='pt-6 text-center text-lg text-primary-text'>Leica M3 1972</h4>
                     <p className='pt-3 text-center text-sm text-muted'>The specification here</p>
                     <p className='pt-5 text-center text-xl text-secondary font-semibold'>$1,500.00</p>
                   </div>
@@ -43,9 +65,16 @@ const HotItem = () => {
                 <div className='group cursor-pointer pt-10'>
                   <div className='flex flex-col mx-2 pb-8'>
                     <div className='grid justify-items-center'>
-                      <div className='w-32 h-32 rounded-lg bg-red-500'></div>
+                      <div className='w-32 h-32 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/ipad-pro-2018.png"
+                          width={128}
+                          height={128}
+                          alt='iPad Pro 2018'
+                        />
+                      </div>
                     </div>
-                    <h4 className='pt-6 text-center text-lg text-primary-text'>Asus Zenbook Pro 13&quot;</h4>
+                    <h4 className='pt-6 text-center text-lg text-primary-text'>iPad Pro 2018</h4>
                     <p className='pt-3 text-center text-sm text-muted'>The specification here</p>
                     <p className='pt-5 text-center text-xl text-secondary font-semibold'>$1,500.00</p>
                   </div>

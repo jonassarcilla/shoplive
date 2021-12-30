@@ -15,7 +15,14 @@ const Stats = () => {
                   {/* item wrapper */}
                   <div className='px-5 pt-4 pb-5 rounded-lg bg-primary-3'>
                     <div className='grid justify-items-start'>
-                      <div className=' w-16 h-16 rounded-lg bg-red-500'></div>
+                      <div className=' w-16 h-16 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/asus-zenbook.png"
+                          width={64}
+                          height={64}
+                          alt='Asus Zenbook'
+                        />
+                      </div>
                     </div>
                     <h4 className='mt-4 font-semibold'>Asus Zenbook Pro 13&quot;</h4>
                     <div className='flex flex-row'>
@@ -43,7 +50,14 @@ const Stats = () => {
 
                   <div className='px-5 pt-4 pb-5 rounded-lg bg-primary-3'>
                     <div className='grid justify-items-start'>
-                      <div className=' w-16 h-16 rounded-lg bg-red-500'></div>
+                      <div className=' w-16 h-16 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/apple-watch-2.png"
+                          width={64}
+                          height={64}
+                          alt='Apple Watch 2'
+                        />
+                      </div>
                     </div>
                     <h4 className='mt-4 font-semibold'>Asus Zenbook Pro 13&quot;</h4>
                     <div className='flex flex-row'>
@@ -71,7 +85,14 @@ const Stats = () => {
 
                   <div className='px-5 pt-4 pb-5 rounded-lg bg-primary-3'>
                     <div className='grid justify-items-start'>
-                      <div className=' w-16 h-16 rounded-lg bg-red-500'></div>
+                      <div className=' w-16 h-16 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/headphones.png"
+                          width={64}
+                          height={64}
+                          alt='Headphones'
+                        />
+                      </div>
                     </div>
                     <h4 className='mt-4 font-semibold'>Asus Zenbook Pro 13&quot;</h4>
                     <div className='flex flex-row'>
@@ -109,13 +130,20 @@ const Stats = () => {
               </div>
 
               <div className='flex flex-col w-72'>
-                <h3 className='mb-5 text-xl text-primary-text font-semibold'>Most Sold Laptops</h3>
+                <h3 className='mb-5 text-xl text-primary-text font-semibold'>Most Sold Camera</h3>
                 
                 <div className='flex flex-col gap-4'>
                   {/* item wrapper */}
                   <div className='px-5 pt-4 pb-5 rounded-lg bg-primary-3'>
                     <div className='grid justify-items-start'>
-                      <div className=' w-16 h-16 rounded-lg bg-red-500'></div>
+                      <div className=' w-16 h-16 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/headphones.png"
+                          width={64}
+                          height={64}
+                          alt='Headphones'
+                        />
+                      </div>
                     </div>
                     <h4 className='mt-4 font-semibold'>Asus Zenbook Pro 13&quot;</h4>
                     <div className='flex flex-row'>
@@ -208,7 +236,7 @@ const Stats = () => {
                 </div>
               </div>
               <div className='flex flex-col w-72'>
-                <h3 className='mb-5 text-xl text-primary-text font-semibold'>Most Sold Laptops</h3>
+                <h3 className='mb-5 text-xl text-primary-text font-semibold'>Most Sold Headhpone</h3>
                 
                 <div className='flex flex-col gap-4'>
                   {/* item wrapper */}

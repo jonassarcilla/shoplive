@@ -28,7 +28,14 @@ const ProductRecommendation = () => {
                   </div>
                 </div>
                 <div className='grid justify-items-center mb-11'>
-                  <div className='w-28 h-28 rounded-lg bg-red-400'></div>
+                  <div className='w-28 h-28 rounded-lg'>
+                    <Image
+                      src="/assets/img/products/Blender.png"
+                      width={112}
+                      height={112}
+                      alt='Moderna Juice and Vege Blender Silver'
+                    />
+                  </div>
                 </div>
                 <div className='flex flex-col items-center'>
                   <h4 className='text-center text-lg font-semibold text-primary-text'>Moderna Juice & Vege Blender Silver</h4>
@@ -59,10 +66,17 @@ const ProductRecommendation = () => {
                   </div>
                 </div>
                 <div className='grid justify-items-center mb-11'>
-                  <div className='w-28 h-28 rounded-lg bg-red-400'></div>
+                  <div className='w-28 h-28 rounded-lg'>
+                    <Image
+                      src="/assets/img/products/leica-camera.png"
+                      width={112}
+                      height={112}
+                      alt='Leica Camera'
+                    />
+                  </div>
                 </div>
                 <div className='flex flex-col items-center'>
-                  <h4 className='text-center text-lg font-semibold text-primary-text'>Moderna Juice & Vege Blender Silver</h4>
+                  <h4 className='text-center text-lg font-semibold text-primary-text'>Leica M3 with APO-Summicron 50mm 1:2</h4>
                   <div className='flex flex-row items-start py-5 gap-4'>
                     <p className='text-base text-primary-text'>$1,500.00</p>
                     <p className='text-base line-through text-muted'>$2,000.00</p>
@@ -90,10 +104,17 @@ const ProductRecommendation = () => {
                     </div>
                   </div>
                   <div className='grid justify-items-center mb-11'>
-                    <div className='w-28 h-28 rounded-lg bg-red-400'></div>
+                    <div className='w-28 h-28 rounded-lg'>
+                      <Image
+                        src="/assets/img/products/asus-zenbook.png"
+                        width={112}
+                        height={112}
+                        alt='Headphones'
+                      />
+                    </div>
                   </div>
                   <div className='flex flex-col items-center'>
-                    <h4 className='text-center text-lg font-semibold text-primary-text'>Moderna Juice & Vege Blender Silver</h4>
+                    <h4 className='text-center text-lg font-semibold text-primary-text'>Asus Zenbook Pro 13” UX-430 US 2018</h4>
                     <div className='flex flex-row items-start py-5 gap-4'>
                       <p className='text-base text-primary-text'>$1,500.00</p>
                       <p className='text-base line-through text-muted'>$2,000.00</p>
@@ -132,7 +153,14 @@ const ProductRecommendation = () => {
                     </div>
                   </div>
                   <div className='grid justify-items-center my-11'>
-                    <div className='w-32 h-32 rounded-lg bg-white'></div>
+                    <div className='w-32 h-32 rounded-lg bg-whitew'>
+                      <Image
+                        src="/assets/img/products/apple-watch-2.png"
+                        width={128}
+                        height={128}
+                        alt='Headphones'
+                      />
+                    </div>
                   </div>
                   <div className='flex flex-col px-5'>
                       <button className='flex flex-auto rounded-md justify-items-center py-4 bg-white group-hover:bg-special'>

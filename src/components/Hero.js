@@ -8,8 +8,22 @@ const Hero = () => {
       <section>
           <div className='bg-secondary-2 grid grid-cols-1 gap-2'>
             <div className='container mx-auto flex flex-col flex-wrap px-3 py-9 '>
-              <p className='text-center'>Samsungs</p>
-              <h2 className='text-3xl text-primary-text text-center'>Get Special Watch with Special Prices</h2>
+              <div className='flex flex-col flex-wrap items-center justify-items-center content-center'>
+                <svg xmlns="http://www.w3.org/2000/svg" width="118.576" height="17.34" viewBox="0 0 118.576 17.34">
+                  <g id="Layer_2" data-name="Layer 2" transform="translate(0 -0.028)">
+                    <g id="Layer_3" data-name="Layer 3" transform="translate(0 0.028)">
+                      <path id="Path_1" data-name="Path 1" d="M84.524,8.1a15.393,15.393,0,0,0-1.865-.984,15.044,15.044,0,0,1-2.649-1.48,1.539,1.539,0,0,1-.355-1.754,1.088,1.088,0,0,1,1.117-.622s1.184.067,1.184,1.043V5.642H86.2V3.622S86.522.314,81.194.166c0,0-4.188-.274-5.387,1.983,0,0-.474.5-.474,2.22V5.664a4.211,4.211,0,0,0,.74,2.4,5.558,5.558,0,0,0,1.48,1.295s2.109,1.14,3.374,1.791c0,0,1.28.74,1.11,1.887A1.258,1.258,0,0,1,80.7,14.189a1.177,1.177,0,0,1-1.125-1.221V11.592H75v2S74.874,17.4,80.683,17.4c0,0,5.55.111,5.809-3.915V11.88a4.255,4.255,0,0,0-1.961-3.767Z" transform="translate(-19.5 -0.061)" fill="#959ead" fillRule="evenodd"/>
+                      <path id="Path_2" data-name="Path 2" d="M54.8.81l-1.421,8.9h-.333L51.694.891H44.605L44.25,17.016h4.2L48.5,4.865h.333l2.22,12.143h4.418l2.2-12.136h.289l.1,12.143h4.218L61.825.81Z" transform="translate(-11.505 -0.231)" fill="#959ead" fillRule="evenodd"/>
+                      <path id="Path_3" data-name="Path 3" d="M23.777.9l-2.8,16.117H25.5l1.65-12.5h.37l1.658,12.5h4.514L30.9.9Z" transform="translate(-5.455 -0.254)" fill="#959ead" fillRule="evenodd"/>
+                      <path id="Path_4" data-name="Path 4" d="M150.91,7.844v2.383h1.154v2.553a1.155,1.155,0,1,1-2.309.081V4.033c0-.91,1.147-.955,1.147-.955a1.073,1.073,0,0,1,1.11,1.08V5.505h4.255c.141-2.62-.385-3.256-.385-3.256-1.051-2.368-5.047-2.22-5.047-2.22-6.127,0-5.454,4.706-5.454,4.706v8.517c.133,4.44,6.179,3.966,6.283,3.959,2.686-.3,3.5-1.154,3.5-1.154a2.612,2.612,0,0,0,.94-1.317,7.8,7.8,0,0,0,.266-1.88V7.844Z" transform="translate(-37.795 -0.028)" fill="#959ead" fillRule="evenodd"/>
+                      <path id="Path_5" data-name="Path 5" d="M130.412,10.674h-.185L125.905.817H120.74v16.2h4.2l-.252-9.857h.185l4.477,9.857h5.01V.81h-4.255l.3,9.864Z" transform="translate(-31.393 -0.231)" fill="#959ead" fillRule="evenodd"/>
+                      <path id="Path_6" data-name="Path 6" d="M104.384,12.981s.059,1.332-1.177,1.332a1.214,1.214,0,0,1-1.295-1.295V.83H97.287V12.921s-.474,4.573,5.987,4.573c0,0,5.609.067,5.609-4.366V.83h-4.5V12.981Z" transform="translate(-25.293 -0.236)" fill="#959ead" fillRule="evenodd"/>
+                      <path id="Path_7" data-name="Path 7" d="M9.531,8.1a15.392,15.392,0,0,0-1.865-.984,14.578,14.578,0,0,1-2.649-1.48A1.539,1.539,0,0,1,4.662,3.85a1.088,1.088,0,0,1,1.117-.614S6.963,3.3,6.963,4.272V5.641h4.248V3.621S11.529.313,6.2.165a8.754,8.754,0,0,0-.984,0S1.991.343.836,2.111v.037s-.466.5-.466,2.22V5.663a4.174,4.174,0,0,0,.7,2.4,5.557,5.557,0,0,0,1.48,1.295s2.065,1.14,3.33,1.776c0,0,1.28.74,1.11,1.887a1.251,1.251,0,0,1-1.332,1.147,1.184,1.184,0,0,1-1.132-1.221V11.591H0v2S-.126,17.4,5.683,17.4c0,0,5.55.111,5.809-3.915V11.879A4.233,4.233,0,0,0,9.531,8.113Z" transform="translate(0 -0.06)" fill="#959ead" fillRule="evenodd"/>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <h2 className='mt-8 text-3xl text-primary-text text-center'>Get Special Watch with Special Prices</h2>
               <ul className='text-muted text-center m-6 hero-list text-base secondary-text'>
                 <li className='py-3.5'>Newest OS Support</li>
                 <li className='py-3.5'>Water and Dust Resistant</li>
