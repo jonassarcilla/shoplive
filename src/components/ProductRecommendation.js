@@ -19,11 +19,11 @@ const ProductRecommendation = () => {
                 <div className='grid justify-items-end'>
                   <div className='w-9 h-9 bg-accent-3 rounded-full flex items-center justify-items-center content-center justify-center'>
                     <Link href="/">
-                      <a>
+                      <button aria-label="Like">
                         <svg xmlns="http://www.w3.org/2000/svg" width="13.6" height="12" viewBox="0 0 13.6 12">
                           <path id="Path" d="M7.118,1.112a3.8,3.8,0,0,1,5.37,5.368l-5.4,5.4a.4.4,0,0,1-.566,0l-5.4-5.4a3.8,3.8,0,0,1,5.37-5.368l.318.318Z" fill="#5a7184"/>
                         </svg>
-                      </a>
+                      </button>
                     </Link>
                   </div>
                 </div>
@@ -50,11 +50,11 @@ const ProductRecommendation = () => {
                 <div className='grid justify-items-end'>
                   <div className='w-9 h-9 bg-accent-3 rounded-full flex items-center justify-items-center content-center justify-center'>
                     <Link href="/">
-                      <a>
+                      <button aria-label="Like">
                         <svg xmlns="http://www.w3.org/2000/svg" width="13.6" height="12" viewBox="0 0 13.6 12">
                           <path id="Path" d="M7.118,1.112a3.8,3.8,0,0,1,5.37,5.368l-5.4,5.4a.4.4,0,0,1-.566,0l-5.4-5.4a3.8,3.8,0,0,1,5.37-5.368l.318.318Z" fill="#5a7184"/>
                         </svg>
-                      </a>
+                      </button>
                     </Link>
                   </div>
                 </div>
@@ -81,11 +81,11 @@ const ProductRecommendation = () => {
                   <div className='grid justify-items-end'>
                     <div className='w-9 h-9 bg-accent-3 rounded-full flex items-center justify-items-center content-center justify-center'>
                       <Link href="/">
-                        <a>
+                        <button aria-label="Like">
                           <svg xmlns="http://www.w3.org/2000/svg" width="13.6" height="12" viewBox="0 0 13.6 12">
                             <path id="Path" d="M7.118,1.112a3.8,3.8,0,0,1,5.37,5.368l-5.4,5.4a.4.4,0,0,1-.566,0l-5.4-5.4a3.8,3.8,0,0,1,5.37-5.368l.318.318Z" fill="#5a7184"/>
                           </svg>
-                        </a>
+                        </button>
                       </Link>
                     </div>
                   </div>
