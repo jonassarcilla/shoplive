@@ -171,7 +171,14 @@ const Stats = () => {
 
                   <div className='px-5 pt-4 pb-5 rounded-lg bg-primary-3'>
                     <div className='grid justify-items-start'>
-                      <div className=' w-16 h-16 rounded-lg bg-red-500'></div>
+                      <div className=' w-16 h-16 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/headphones.png"
+                          width={64}
+                          height={64}
+                          alt='Headphones'
+                        />
+                      </div>
                     </div>
                     <h4 className='mt-4 font-semibold'>Asus Zenbook Pro 13&quot;</h4>
                     <div className='flex flex-row'>
@@ -199,7 +206,14 @@ const Stats = () => {
 
                   <div className='px-5 pt-4 pb-5 rounded-lg bg-primary-3'>
                     <div className='grid justify-items-start'>
-                      <div className=' w-16 h-16 rounded-lg bg-red-500'></div>
+                      <div className=' w-16 h-16 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/leica-camera.png"
+                          width={64}
+                          height={64}
+                          alt='Leica Camera'
+                        />
+                      </div>
                     </div>
                     <h4 className='mt-4 font-semibold'>Asus Zenbook Pro 13&quot;</h4>
                     <div className='flex flex-row'>
@@ -242,7 +256,14 @@ const Stats = () => {
                   {/* item wrapper */}
                   <div className='px-5 pt-4 pb-5 rounded-lg bg-primary-3'>
                     <div className='grid justify-items-start'>
-                      <div className=' w-16 h-16 rounded-lg bg-red-500'></div>
+                      <div className=' w-16 h-16 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/headphones.png"
+                          width={64}
+                          height={64}
+                          alt='Headphones'
+                        />
+                      </div>
                     </div>
                     <h4 className='mt-4 font-semibold'>Asus Zenbook Pro 13&quot;</h4>
                     <div className='flex flex-row'>
@@ -270,7 +291,14 @@ const Stats = () => {
 
                   <div className='px-5 pt-4 pb-5 rounded-lg bg-primary-3'>
                     <div className='grid justify-items-start'>
-                      <div className=' w-16 h-16 rounded-lg bg-red-500'></div>
+                      <div className=' w-16 h-16 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/leica-camera.png"
+                          width={64}
+                          height={64}
+                          alt='Leica Camera'
+                        />
+                      </div>
                     </div>
                     <h4 className='mt-4 font-semibold'>Asus Zenbook Pro 13&quot;</h4>
                     <div className='flex flex-row'>
@@ -298,7 +326,14 @@ const Stats = () => {
 
                   <div className='px-5 pt-4 pb-5 rounded-lg bg-primary-3'>
                     <div className='grid justify-items-start'>
-                      <div className=' w-16 h-16 rounded-lg bg-red-500'></div>
+                      <div className=' w-16 h-16 rounded-lg'>
+                        <Image
+                          src="/assets/img/products/leica-camera.png"
+                          width={64}
+                          height={64}
+                          alt='Leica Camera'
+                        />
+                      </div>
                     </div>
                     <h4 className='mt-4 font-semibold'>Asus Zenbook Pro 13&quot;</h4>
                     <div className='flex flex-row'>
