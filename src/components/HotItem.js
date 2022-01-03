@@ -31,7 +31,7 @@ const HotItem = () => {
                     <div className='grid justify-items-center'>
                       <div className='w-32 h-32 rounded-lg'>
                         <Image
-                          src="/assets/img/products/blender.png"
+                          src="/assets/img/products/modern-blender.png"
                           width={128}
                           height={128}
                           alt='Modena Juice Blender'

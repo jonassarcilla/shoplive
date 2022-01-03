@@ -30,7 +30,7 @@ const ProductRecommendation = () => {
                 <div className='grid justify-items-center mb-11'>
                   <div className='w-28 h-28 rounded-lg'>
                     <Image
-                      src="/assets/img/products/Blender.png"
+                      src="/assets/img/products/modern-blender.png"
                       width={112}
                       height={112}
                       alt='Moderna Juice and Vege Blender Silver'
