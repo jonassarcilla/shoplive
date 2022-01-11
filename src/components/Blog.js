@@ -18,7 +18,7 @@ const Blog = () => {
                   src="/assets/img/products/blog-1.jpg"
                   width={2400}
                   height={1546}
-                  alt='Blog 1'
+                  alt='Blog 1 Test'
                 />
                 <div className='absolute top-4 right-4 w-9 h-9 rounded-full bg-white z-0'>
                     <div className='w-9 h-9 bg-accent-3 rounded-full flex items-center justify-items-center content-center justify-center'>
